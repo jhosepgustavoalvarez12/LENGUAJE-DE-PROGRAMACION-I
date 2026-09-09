@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese el valor de a b y c' 
+5
+1
+5
+a,b,c
+6
+3
+1
+d
+14
+(b*b)-(4*a*c )
+2
+x1
+20
+(-b+sqrt(d)) / (2*a)
+2
+x2
+20
+(-b-sqrt(d)) / (2*a)
+4
+1
+24
+'El valor de x1 es:', x1
+4
+1
+24
+'El valor de x2 es:', x2
+1
