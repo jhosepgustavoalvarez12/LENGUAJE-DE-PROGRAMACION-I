@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Ponga su peso en kilogramos'
+5
+1
+4
+peso
+4
+1
+30
+'Ponga su estatura en metros' 
+5
+1
+8
+estatura
+6
+1
+3
+imc
+26
+peso/ (estatura*estatura) 
+7
+0
+1
+9
+imc<18.5 
+7
+0
+1
+27
+imc >= 18.5 and imc <= 24.9
+7
+0
+1
+27
+imc >= 25.0 and imc <= 29.9
+7
+0
+1
+27
+imc >= 30.0 and imc <= 34.9
+7
+0
+1
+27
+imc >= 35.0 and imc <= 39.9
+7
+0
+1
+12
+imc >= 40.00
+13
+4
+1
+50
+'Su categoria de peso es ', ' Obesidad grado III' 
+13
+13
+4
+1
+49
+'Su categoria de peso es ', ' Obesidad grado II' 
+13
+13
+4
+1
+38
+'Su categoria es', ' Obesidad grado I'
+13
+13
+4
+1
+36
+'Su categoria de peso es ', ' Bajo' 
+13
+13
+4
+1
+42
+'Su categoria de peso es ', ' Sobrepeso ' 
+13
+13
+4
+1
+36
+'Su categoria de peso es ', ' Bajo' 
+13
+1
