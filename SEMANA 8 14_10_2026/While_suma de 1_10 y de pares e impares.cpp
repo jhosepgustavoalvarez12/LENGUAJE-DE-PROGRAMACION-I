@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std; 
+
+int main()
+{
+	int contador=1, suma=0, sumaimpar=0, sumapares=0; 
+	
+	while(contador<=10) 
+	{
+		
+		cout<<"Numero: "<< contador << endl;
+	
+	}
+		cout<<"La suma total es: "<< suma <<endl; 
+		if(contador%2==0) {
+			sumapares=sumapares+contador;
+		}
+		else {
+			sumaimpar=sumaimpar+(contador-1   ;
+		}	cout<<"La suma de pares es: "<< sumapares<<endl;
+		cout<<"La suma de impares es: "<< sumaimpar<<endl;
+}
